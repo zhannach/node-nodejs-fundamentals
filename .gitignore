@@ -7,6 +7,6 @@ workspace/
 workspace_restored/
 snapshot.json
 data.json
-# checksums.json
+checksums.json
 source.txt
 chunk_*.txt
